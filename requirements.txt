@@ -1,0 +1,4 @@
+ultralytics==8.0.169  # YOLOv8 package for object detection
+opencv-python==4.8.0.74  # OpenCV for image and video processing
+torch>=1.9.0  # PyTorch is required for YOLOv8 to function correctly
+numpy>=1.21.0  # Required for numerical operations with OpenCV
